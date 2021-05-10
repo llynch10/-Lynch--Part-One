@@ -1,0 +1,33 @@
+body { 
+    font-family:bungee;
+    
+    
+
+}
+
+#topbuttons {
+    color: #7944e6;
+}
+a {
+    text-decoration: none;
+
+}
+a:hover {
+  color:  #10fdff;
+}
+section{
+    background-color: #ff00ff;
+    
+}
+section img {
+    height:50%;
+    width: 50%;
+}
+ul {
+    list-style-type: none;
+}
+ul li img {
+    width: 20%;
+    height: 20%;
+}
+@media screen and (min-width: 768px)
